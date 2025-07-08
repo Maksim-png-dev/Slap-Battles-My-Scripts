@@ -1,45 +1,4 @@
 
--- [[
---███╗░░░███╗██████╗░██████╗░██╗░░░██╗██╗░░░░░██╗░░░░░███████╗██████╗░░█████╗░░██████╗░
---████╗░████║██╔══██╗██╔══██╗██║░░░██║██║░░░░░██║░░░░░██╔════╝██╔══██╗██╔══██╗██╔════╝░
---██╔████╔██║██████╔╝██████╦╝██║░░░██║██║░░░░░██║░░░░░█████╗░░██████╔╝██║░░██║██║░░██╗░
---██║╚██╔╝██║██╔══██╗██╔══██╗██║░░░██║██║░░░░░██║░░░░░██╔══╝░░██╔══██╗██║░░██║██║░░╚██╗
---██║░╚═╝░██║██║░░██║██████╦╝╚██████╔╝███████╗███████╗██║░░░░░██║░░██║╚█████╔╝╚██████╔╝
---╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═════╝░░╚═════╝░╚══════╝╚══════╝╚═╝░░░░░╚═╝░░╚═╝░╚════╝░░╚═════╝░
---]]
-
-
-
---[[
--- Official Ultimate Universal Hub
--- Equinox Hub
--- This GUI/Hub was made by 3wnd#8995
--- our discord server: https://discord.gg/f26Vp8CzaZ
--- This Hub will receive updates. 
--- Also if there are any bugs, please report the bug(s) in my discord server.
-]]
-
--- [[
--- Supported Games:
--- Mining Simulator 2
--- Da hood
--- Cant Say the Word
--- Pet Simulator X
--- Southwest Florida Beta
--- Flee the Facility
--- Meepcity
--- Tower of Hell
--- Raise a Floppa 2]
--- Limited Words
--- Car Crushers 2
--- Brookhaven RP
--- Bedwars
--- Murder Mystery 2
--- Arsenal
--- Doors V
---]]
-
-
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
 local Window = OrionLib:MakeWindow({Name = "Equinox Hub - FE ScriptHub", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest", IntroText = "Equinox Hub | FE Universal Scripthub", IntroIcon = "rbxassetid://6031094686", Icon = "rbxassetid://6031094686"})
