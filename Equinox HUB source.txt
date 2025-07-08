@@ -1,5 +1,5 @@
 
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Giangplay/Script/main/Orion_Library_PE_V2.lua')))()
 
 local Window = OrionLib:MakeWindow({Name = "Equinox Hub - FE ScriptHub", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest", IntroText = "Equinox Hub | FE Universal Scripthub", IntroIcon = "rbxassetid://6031094686", Icon = "rbxassetid://6031094686"})
 
