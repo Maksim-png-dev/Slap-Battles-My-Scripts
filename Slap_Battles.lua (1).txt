@@ -920,6 +920,11 @@ Tab1:AddButton({
 	Callback = function()
       		loadstring(game:HttpGet("https://raw.githubusercontent.com/delta-hydro/secret-host-haha/main/syn_ui_new.lua"))()
   	end    
+}) Tab1:AddButton({
+	Name = "Get SwordFighter Not Mine",
+	Callback = function()
+      		loadstring(game:HttpGet("https://pastefy.app/vdeEnvpe/raw"))()
+  	end    
 })
 
 Tab1:AddButton({
